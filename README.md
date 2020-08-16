@@ -1,10 +1,12 @@
-# MDRDC（Malevolent Dialogue Response Detection and Classification） dataset and baselines
+# MDRDC（Malevolent Dialogue Response Detection and Classification）dataset and baselines
 
 ## The MDRDC dataset and baselines for malevolent dialogue detection and classification.
 
 ## Dataset
-We would release our dataset and mTurk webpage design html files after the successful submission of the paper.
+We would release dataset, lexicon and annotation task design html files after the successful submission of the paper.
 The whole dataset includes 6,000 dialogues.
+
+
 
 ## Baselines
 ### Requirements
