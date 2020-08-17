@@ -3,8 +3,8 @@
 ## The MDRDC dataset and baselines for malevolent dialogue detection and classification.
 
 ## Dataset
-We would release dataset, lexicon and annotation task design html files after the successful submission of the paper.
-The whole dataset includes 6,000 dialogues.
+Dataset, lexicon and annotation task design html files will be publicly available after our paper gets accepted.
+The ./dataset/ file has an example of the dataset now. The whole dataset includes 6,000 dialogues.
 
 
 
