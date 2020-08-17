@@ -4,7 +4,7 @@
 
 ## Dataset
 Dataset, lexicon and annotation task design html files will be publicly available after our paper gets accepted.
-The ./dataset/ file has an example of the dataset now. The whole dataset includes 6,000 dialogues.
+The ./dataset/data_example.tsv file has an example of the dataset now. The whole dataset includes 6,000 dialogues.
 
 
 
