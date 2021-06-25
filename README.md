@@ -33,6 +33,11 @@ We modify the BERT-base text classification model from Yingxin Song's open sourc
 Link:
 [BERT-base](https://github.com/songyingxin/Bert-TextClassification)
 
+#### BERT-conf
+We use the softmax score and TCP score as confidence.
+Softmax score come from the BERT-base model directly.
+TCP score is trained by the BERT-Confidnet module. Coming soon!
+
 #### BERT pretrained files download:
 ##### vocab
 [bert-base-uncased](https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt),
