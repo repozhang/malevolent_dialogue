@@ -34,7 +34,7 @@ Link:
 #### BERT-conf
 We use the softmax score and TCP score as confidence.
 Softmax score come from the BERT-base model directly. Please use the softmax score of BERT-base classification model.
-TCP score is trained by the BERT-Confidnet module. Please refer to the code of our another paper, link: [\todo]
+TCP score is trained by the BERT-Confidnet module. Please refer to the code of our another paper, link: [BERT-conf](https://github.com/repozhang/CaSE_HMCEval)
 
 #### checkpoint files;
 We provide part of the checkpoint files for BERT-base classification model.
@@ -78,3 +78,4 @@ You can load the files to get the results for the test dataset.
 }
         
         
+
