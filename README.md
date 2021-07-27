@@ -36,16 +36,14 @@ We use the softmax score and TCP score as confidence.
 Softmax score come from the BERT-base model directly. Please use the softmax score of BERT-base classification model.
 TCP score is trained by the BERT-Confidnet module. Please refer to the code of our another paper, link: [BERT-conf](https://github.com/repozhang/CaSE_HMCEval)
 
-#### checkpoint files;
+#### checkpoint files:
 We provide part of the checkpoint files for BERT-base classification model.
 Due to the file size, we provide the files for Table 7 and Table 8.
 You can load the files to get the results for the test dataset.
 
-##### MDRDC without context (Table 7):
-[1st-level, 2nd-level and 3rd-level:](https://drive.google.com/file/d/1Ih6UQas7aVpKw2FR179ro7xKORpNU6I9/view?usp=sharing)
+##### MDRDC without context (Table 7):[1st-level, 2nd-level and 3rd-level:](https://drive.google.com/file/d/1Ih6UQas7aVpKw2FR179ro7xKORpNU6I9/view?usp=sharing)
 
-##### MDRDC with context (Table 8):
-[1st-level, 2nd-level and 3rd-level:](https://drive.google.com/file/d/17sfHuwjRPOn0T6C2T7ARw8WMtsjJ_iRU/view?usp=sharing)
+##### MDRDC with context (Table 8):[1st-level, 2nd-level and 3rd-level:](https://drive.google.com/file/d/17sfHuwjRPOn0T6C2T7ARw8WMtsjJ_iRU/view?usp=sharing)
 
 
 #### BERT pretrained files download:
