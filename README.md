@@ -1,7 +1,7 @@
 ## This repository contains two dataset files:
 -The MDRDC（Malevolent Dialogue Response Detection and Classification） dataset: The ./dataset/data_example.tsv file has an example of the dataset now. The whole dataset includes 6,000 dialogues.
 
--The MDMD (Multi-Label Dialogue Malevolence Detection) dataset: The dataset only contains dev and test dataset.
+-The MDMD (Multi-Label Dialogue Malevolence Detection) dataset: Training set is the same as MDRDC, Dev and test sets are multi-label.
 
 ## We also provide guidance of baselines for single-label malevolent dialogue detection and classification:
 ### Requirements
