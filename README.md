@@ -1,14 +1,8 @@
-   
-# MDRDC（Malevolent Dialogue Response Detection and Classification）dataset and baselines
+## This repository contains two dataset files:
+-The MDRDC（Malevolent Dialogue Response Detection and Classification） dataset: The ./dataset/data_example.tsv file has an example of the dataset now. The whole dataset includes 6,000 dialogues.
+-The MDMD (Multi-Label Dialogue Malevolence Detection) dataset: The dataset only contains dev and test dataset.
 
-## The MDRDC dataset and baselines for malevolent dialogue detection and classification.
-
-## Dataset
-Dataset, lexicon and annotation task design html files will be publicly available after our paper gets accepted.
-The ./dataset/data_example.tsv file has an example of the dataset now. The whole dataset includes 6,000 dialogues.
-
-
-## Baselines
+## We also provide guidance of baselines for single-label malevolent dialogue detection and classification:
 ### Requirements
 python 3.6
 pytorch 1.0
@@ -73,6 +67,13 @@ You can load the files to get the results for the test dataset.
   journal={Journal of the Association for Information Science and Technology},
   year={2021},
   publisher={Wiley Online Library}
+}
+
+@article{zhang2022improving,
+  title={Improving Multi-label Malevolence Detection in Dialogues through Multi-faceted Label Correlation Enhancement},
+  author={Zhang, Yangjun and Ren, Pengjie and Deng, Wentao and Chen, Zhumin and de Rijke, Maarten},
+  journal={ACL},
+  year={2022}
 }
         
         
